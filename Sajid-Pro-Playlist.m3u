@@ -1,6 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi", Mohona Tv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Masranga1667751530.png", Masranga
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=MASRANGA-TV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="", R Tv
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=RTV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
+
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bdix2.3utilities.com/we/assets/images/GTV 31670253750.png",G TV 
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=GTV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", Mohona Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi", News 24
@@ -81,7 +91,7 @@ http://103.244.145.15/live/11222/11222/198.ts?token=ShJcU0BbQQNHDVcPU1cDDg9WVAVT
 http://188.241.218.241/live/11222/11222/3753.ts?token=ShJcU0BbQQNHDwFdAAdXDwkIVlYEU1ZWAlQBBFRWBgFXCAUHBAFRCVcbGBpEF0dcWF1vWQIXXlIGV1EbRxFAV0NvXVYRCUEPVg0GAQVBGRtNWV1VRA9VVgVQUQFQXAcEHRJEW1cRWRtUDQUKB1IXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVXDQAIEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgFQDAkLARJN
 #EXTINF:-1,Jalsha Movies HD
 #EXTGRP:Bangla
-http://188.241.219.189/live/11222/11222/23304.ts?token=ShJcU0BbQQNHWAZcBFNRAAsJVAAFUFRQVFpQVlMFVQADBgILAVcGXAYbGBpEF0dcWF1vWQIXXlMCUVIDSUZGQVRCa1tXEVkbUwoACg5RFxUbRFldAxdeUAZWUARTUQAAAxwWQlpXQQNHCAAABloEDhscElUeQQETXwMOaAEBRVtSVRYIXUYPVUkbW1ZoB1BUWF5UElwXVEMdQAtEFUYJXERcWB4RUQpNF1hAXRVZFwoOAQUSShcHDkQMFkUcRgkQc3QWHhFWG00AV0dRWA0XAxtEQxJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg1BBA0NAAkHURcZ
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=SONY-ART&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
 #EXTINF:-1,Sangeet Bangla
 #EXTGRP:Bangla
@@ -91,7 +101,7 @@ http://188.241.218.163/live/11222/11222/405.ts?token=ShJcU0BbQQNHCQVdUwVQCV9UBVZ
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Bangla", Zee Bangla HD
-http://188.241.218.163/live/11222/11222/435.ts?token=ShJcU0BbQQNHDFYJU1MMWwkEVFJXVlNXB1pXU1MFA1YIAAxRUlYAD1wbGBpEF0dcWF1vWQIXXlUCV04VEBdWQG5ZUBAJEVUKUQsNChVPF01QXVUSXARTVQNRVAFUXAoeE0BdVhEJQQpVAAwLA1EXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSDQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJQDQkIAxJN
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=ZEE-BANGLA&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
 
 
@@ -144,9 +154,9 @@ http://port.denver1769.fun/oplx5.php?id=66224
 #EXTINF:-1,& Prive HD
 #EXTGRP:English 
 http://port.denver1769.fun/oplx5.php?id=66228
-#EXTINF:-1,Star Movies HD
-#EXTGRP:English
-http://port.denver1769.fun/oplx5.php?id=66213
+
+#EXTINF:-1 group-title="English" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png",Star Movies HD
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=MOVIE-NOW&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
 #EXTINF:-1,Star Gold 2 HD
 #EXTGRP:Movies
@@ -154,7 +164,7 @@ http://188.241.218.221/live/11222/11222/157081.ts?token=ShJcU0BbQQNHDQAMVVQEDQgI
 
 #EXTINF:-1,Star Gold Select HD
 #EXTGRP:Movies
-http://188.241.218.163/live/11222/11222/9376.ts?token=ShJcU0BbQQNHWFBdD1EAXw8DAwZUUQACBQYAD1dWVlRTCFYEBFUHCQcbGBpEF0dcWF1vWQIXXlgCVVQbRxFAV0NvXVYRCUEPVg0GAQVBGRtNWV1VRA9VVgVQUQRcUQYAHRJEW1cRWRtdCgcPBEEZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgVaAAgbHBJTCUAKFUMbQA1HJncQHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWDQRbBQkAEk0=
+http://port.denver1769.fun/oplx5.php?id=66176
 
 #EXTINF:-1,Star Gold Romance
 #EXTGRP:Movies
@@ -162,7 +172,7 @@ http://188.241.218.221/live/11222/11222/375331.ts?token=ShJcU0BbQQNHXVENBgBRXwxU
 
 #EXTINF:-1,Star Gold HD
 #EXTGRP:Movies
-http://188.241.219.62/live/11222/11222/194.ts?token=ShJcU0BbQQNHWlEAAQUBXQpRCAYHVgUAU1IGDlYCBldXCQdWBlBTC10bGBpEF0dcWF1vWQIXXlAIVk4VEBdWQG5ZUBAJEVUKUQsNChVPF01QXVUSXARTVQNRUQ5RVgUeE0BdVhEJQQ1VDQcPBVMXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVRAgsIEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgRTAQAPAwISGw==
+https://5hrr.short.gy/stgld_kashurflix.m3u8
 
 #EXTINF:-1,Zee Cinema
 #EXTGRP:Movies
@@ -193,19 +203,23 @@ http://port.denver1769.fun/oplx5.php?id=66199
 http://port.denver1769.fun/oplx5.php?id=206315
 #EXTINF:-1,Bflix
 #EXTGRP:Movies
-http://port.denver1769.fun/oplx5.php?id=104190
+http://202.164.50.194:8000/play/a0cr/index.m3u8
+
 #EXTINF:-1,Goldmines
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=112972
 #EXTINF:-1,Goldmines Movies
 #EXTGRP:Hindi
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2960.ts
+https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=240
 #EXTINF:-1,Goldmines Bollywood
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=112973
+#EXTINF:-1 group-title="Movies", Goldmines Action
+http://202.164.50.194:8000/play/a090/index.m3u8
+
 #EXTINF:-1,B4u Movies
 #EXTGRP:Movies
-http://port.denver1769.fun/oplx5.php?id=104201
+https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=228
 #EXTINF:-1,B4u Kadak
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=104199
@@ -219,4 +233,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="-",Music India
+http://202.164.50.194:8000/play/a06l/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://epg.pishow.tv/bucket/images/9X-Tashan.png",9X TASHAN
+https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
+#EXTINF:-1  tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
+https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
 
