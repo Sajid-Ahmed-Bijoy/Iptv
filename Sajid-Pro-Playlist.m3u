@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
 #EXTINF:-1 group-title="TSports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
@@ -8,7 +11,7 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1,Colors Bangla HD
 #EXTGRP:Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTINF:-1,Colors Bangla Cinema
 #EXTGRP:Bangla
@@ -37,7 +40,7 @@ http://188.241.219.189/live/11222/11222/23304.ts?token=ShJcU0BbQQNHWAZcBFNRAAsJV
 http://188.241.218.163/live/11222/11222/405.ts?token=ShJcU0BbQQNHCQVdUwVQCV9UBVZSUFMDUFEDBFAHUQAIAlAGVQNUCFMbGBpEF0dcWF1vWQIXXlUBV04VEBdWQG5ZUBAJEVUKUQsNChVPF01QXVUSXARTVQNRVA9SUQEeE0BdVhEJQQ1cCQYIFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCQVRBxsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsBCwBbDAwbTQ==
 #EXTINF:-1,Tara Bangla Tv
 #EXTGRP:Bangla 
-http://103.145.48.150:90/laosat24/taratv/i
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Bangla", Zee Bangla HD
 http://188.241.218.163/live/11222/11222/435.ts?token=ShJcU0BbQQNHDFYJU1MMWwkEVFJXVlNXB1pXU1MFA1YIAAxRUlYAD1wbGBpEF0dcWF1vWQIXXlUCV04VEBdWQG5ZUBAJEVUKUQsNChVPF01QXVUSXARTVQNRVAFUXAoeE0BdVhEJQQpVAAwLA1EXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSDQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJQDQkIAxJN
