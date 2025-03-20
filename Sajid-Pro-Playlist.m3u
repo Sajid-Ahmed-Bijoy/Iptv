@@ -247,3 +247,6 @@ https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 #EXTINF:-1  tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sony Ten 2
+http://103.122.74.6:8888/hls/sony10.m3u8
+
