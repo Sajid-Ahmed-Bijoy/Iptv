@@ -255,13 +255,41 @@ https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
 
 
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167578
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",STAR SPORTS SELECT 2 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167579
+
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",SONY TEN 1 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167570
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",SONY TEN 2 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167571
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sports",SONY TEN 3 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167572
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="Sports",SONY TEN 4 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167595
+
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",SONY TEN 5 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167580
+
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="Sports",Sony Ten 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=109983
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Sports",Sony Ten 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=109984
 http://103.122.74.6:8888/hls/sony10.m3u8
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="Sports",Sony Ten 3 HD
