@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ibb.co.com/GvZPZq8Y" group-title="Bangladeshi", Asian Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Masranga1667751530.png", Masranga
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=MASRANGA-TV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
@@ -59,7 +62,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3572082
 
 #EXTINF:-1 group-title="TSports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
