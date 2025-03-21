@@ -1,12 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ibb.co.com/GvZPZq8Y" group-title="Bangladeshi", Asian Tv
+
+EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="Bangladeshi", ATN BANGLA HD
+https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangladeshi", Asian Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Masranga1667751530.png", Masranga
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=MASRANGA-TV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="", R Tv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png", R Tv
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=RTV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
 
