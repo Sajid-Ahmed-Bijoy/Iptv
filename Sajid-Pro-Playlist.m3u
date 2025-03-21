@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://s.id/VabNy" group-title="Bangladeshi", Channel 24
 https://cdn.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="Bangladeshi", ATN BANGLA HD
-https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangladeshi", Asian Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8
 
@@ -70,10 +67,10 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3572082
 
-#EXTINF:-1 group-title="TSports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTINF:-1 group-title="T Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="TSports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTINF:-1 group-title="T Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1,Colors Bangla HD
@@ -146,142 +143,142 @@ http://port.denver1769.fun/oplx5.php?id=112979
 http://port.denver1769.fun/oplx5.php?id=66172
 
 
-#EXTINF:-1,Star Movies Select HD
-#EXTGRP:English
+#EXTINF:-1,STAR MOVIES SELECT HD
+#EXTGRP:EMGLISH
 http://port.denver1769.fun/oplx5.php?id=66315
-#EXTINF:-1,Zee Cafe HD
-#EXTGRP:English
+#EXTINF:-1,ZEE CAFE HD
+#EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66287
-#EXTINF:-1,& Flix HD
-#EXTGRP:English
+#EXTINF:-1,& FLIX HD
+#EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66236
-#EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png"group-title="English", & Explore HD
+#EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & EXPLORE HD
 http://port.denver1769.fun/oplx5.php?id=66241
-#EXTINF:-1,Sony Pix HD
-#EXTGRP:English
+#EXTINF:-1,SONY PIX HD
+#EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66224
-#EXTINF:-1,& Prive HD
-#EXTGRP:English 
+#EXTINF:-1,& PRIVE HD
+#EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66228
 
-#EXTINF:-1 group-title="English" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png",Star Movies HD
+#EXTINF:-1 group-title="English" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png" ,STAR MOVIES HD
 http://mega4k.one:8080/live/211994/211994/74798.ts
 
-#EXTINF:-1,Star Gold 2
-#EXTGRP:Movies
+#EXTINF:-1,STAR GOLD 2
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=106133
 
-#EXTINF:-1,Star Gold Select HD
-#EXTGRP:Movies
+#EXTINF:-1,STAR GOLD SELECT HD
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66176
 
-#EXTINF:-1,Star Gold Romance
+#EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=66186
 
-#EXTINF:-1,Star Gold HD
-#EXTGRP:Movies
+#EXTINF:-1,STAR GOLD HD
+#EXTGRP:MOVIES
 https://5hrr.short.gy/stgld_kashurflix.m3u8
 
-#EXTINF:-1,Zee Cinema
-#EXTGRP:Movies
+#EXTINF:-1,ZEE CINEMA
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=206271
-#EXTINF:-1,Zee Cinema HD
-#EXTGRP:Movies
+#EXTINF:-1,ZEE CINEMA HD
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=206308
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies",& Pictures HD
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
 http://port.denver1769.fun/oplx5.php?id=66183
 
 
-#EXTINF:-1,Sony Max HD
-#EXTGRP:Movies
+#EXTINF:-1,SONY MAX HD
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66180
-#EXTINF:-1,Sony Max 2
-#EXTGRP:Movies
+#EXTINF:-1,SONY MAX 2
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66189
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
 http://port.denver1769.fun/oplx5.php?id=112983
 
-#EXTINF:-1,Colors Cineplex SuperHits
-#EXTGRP:Movies
+#EXTINF:-1,COLORS CINEPLEX SUPERHITS
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66199
-#EXTINF:-1,Colors Cineplex HD
-#EXTGRP:Movies
+#EXTINF:-1,COLORS CINEPLEX HD
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=206315
-#EXTINF:-1,Bflix
-#EXTGRP:Movies
+#EXTINF:-1,BFLIX
+#EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a0cr/index.m3u8
 
-#EXTINF:-1,Goldmines
-#EXTGRP:Movies
+#EXTINF:-1,GOLDMINES
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=112972
-#EXTINF:-1,Goldmines Movies
+#EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:Hindi
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=240
-#EXTINF:-1,Goldmines Bollywood
-#EXTGRP:Movies
+#EXTINF:-1,GOLDMINES BOLLYWOOD
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=112973
-#EXTINF:-1 group-title="Movies", Goldmines Action
+#EXTINF:-1 group-title="MOVIES", GOLDMINES ACTION
 http://202.164.50.194:8000/play/a090/index.m3u8
 
-#EXTINF:-1,B4u Movies
-#EXTGRP:Movies
+#EXTINF:-1,B4U MOVIES
+#EXTGRP:MOVIES
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=228
-#EXTINF:-1,B4u Kadak
+#EXTINF:-1,B4U KHADAK
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=104199
-#EXTINF:-1,Star Utsav Movies
-#EXTGRP:Movies
+#EXTINF:-1,Star UTSAB MOVIES
+#EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=104199
 
-#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="Kids",Tom And Jerry Classic FHD
+#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",TOM AND JERRY CLASSIC FHD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=389767
-#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="Kids",The Tom and Jerry Show FHD
+#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",The TOM AND JERRY SHOW FHD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=389758
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KidS" ,Jungle Book
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS" ,JUNGLE BOOK
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF Music HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF MUSIC HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",Music India
+#EXTINF:-1 group-title="MUSIC",MUSIC INDIA
 http://202.164.50.194:8000/play/a06l/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="Music" ,9X TASHAN
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC" ,9X TASHAN
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 
-#EXTINF:-1  group-title="Music" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
+#EXTINF:-1  group-title="MUSIC" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
 
 
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167578
 
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167579
 
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",SONY TEN 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167570
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",SONY TEN 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167571
 
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sports",SONY TEN 3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",SONY TEN 3 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167572
 
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="Sports",SONY TEN 5 HD
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="SPORTS",SONY TEN 5 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167595
 
