@@ -1,8 +1,10 @@
 #EXTM3U
 
-
 EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="Bangladeshi", ATN BANGLA HD
 https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.id/VabNy" group-title="Bangladeshi", Channel 24
+https://cdn.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangladeshi", Asian Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8
@@ -17,7 +19,7 @@ https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=RTV&e=.m3u8|Referer=htt
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bdix2.3utilities.com/we/assets/images/GTV 31670253750.png",G TV 
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=GTV&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi", Mohona Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="Bangladeshi", Mohona Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi", News 24
@@ -29,7 +31,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi", Channel I
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUzOjIzIFBNJmhhc2hfdmFsdWU9QSsvTFNZQWxOblhKaHhWcmtrdjIzZz09JnZhbGlkbWludXRlcz00MA%3D%3D
 
-#EXTINF:-1 tvg-logo="Lhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7djBVYwQQ8puRypJMIXDpMIydpp4-EHDddA&usqp=CAU" group-title="Bangladeshi", SA Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="Bangladeshi", SA Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangladeshi", Jamuna Tv
@@ -153,7 +155,7 @@ http://port.denver1769.fun/oplx5.php?id=66287
 #EXTINF:-1,& Flix HD
 #EXTGRP:English
 http://port.denver1769.fun/oplx5.php?id=66236
-#EXTINF:-1,& Explore HD
+#EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" & Explore HD
 #EXTGRP:English
 http://port.denver1769.fun/oplx5.php?id=66241
 #EXTINF:-1,Sony Pix HD
@@ -245,14 +247,14 @@ http://port.denver1769.fun/oplx5.php?id=389758
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KidS" ,Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Music India
 http://202.164.50.194:8000/play/a06l/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://epg.pishow.tv/bucket/images/9X-Tashan.png" group-title="Music" ,9X TASHAN
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="Music" ,9X TASHAN
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 
 #EXTINF:-1  group-title="Music" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
