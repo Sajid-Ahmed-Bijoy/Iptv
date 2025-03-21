@@ -51,7 +51,7 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+http://mega4k.one:8080/live/211994/211994/132012.ts
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 http://starshare.org:8080/live/11222/11222/271038.ts
