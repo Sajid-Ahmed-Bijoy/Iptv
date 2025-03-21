@@ -67,10 +67,10 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3572082
 
-#EXTINF:-1 group-title="T Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="T Sports" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T SPORTS 02
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1,Colors Bangla HD
@@ -144,7 +144,7 @@ http://port.denver1769.fun/oplx5.php?id=66172
 
 
 #EXTINF:-1,STAR MOVIES SELECT HD
-#EXTGRP:EMGLISH
+#EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66315
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
@@ -236,7 +236,7 @@ http://port.denver1769.fun/oplx5.php?id=104199
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",TOM AND JERRY CLASSIC FHD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=389767
-#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",The TOM AND JERRY SHOW FHD
+#EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",THE TOM AND JERRY SHOW FHD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=389758
 
