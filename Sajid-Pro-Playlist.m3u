@@ -60,7 +60,7 @@ http://starshare.org:8080/live/11222/11222/271038.ts
 http://mega4k.one:8080/live/211994/211994/131986.ts
 #EXTINF:-1,SONY AATH
 #EXTGRP:BANGLA
-http://188.241.218.163/live/11222/11222/4083.ts?token=ShJcU0BbQQNHWFEPA1BQClsGCVZUVAcDVQFTAgFUVlNXVAwFUVZRDV0bGBpEF0dcWF1vWQIXXlUBWlEbRxFAV0NvXVYRCUEPVg0GAQVBGRtNWV1VRA9VVgVQUQFQUQMEHRJEW1cRWRtRAAAKA0EZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgZSBgwbHBJTCUAKFUMbQA1HJncQHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWDQRbBQoJEk0=
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
 http://103.122.74.6:8888/hls/starJalsha.m3u8
@@ -77,7 +77,7 @@ http://188.241.218.163/live/11222/11222/405.ts?token=ShJcU0BbQQNHCQVdUwVQCV9UBVZ
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
-https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=ZEE-BANGLA&e=.m3u8|Referer=https://amrbdixcdn.nayeem-parvez.workers.dev/
+http://103.122.74.6:8888/hls/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="HINDI", SONY TV HD
 http://port.denver1769.fun/oplx5.php?id=66165
