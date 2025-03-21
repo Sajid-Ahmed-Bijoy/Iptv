@@ -155,8 +155,7 @@ http://port.denver1769.fun/oplx5.php?id=66287
 #EXTINF:-1,& Flix HD
 #EXTGRP:English
 http://port.denver1769.fun/oplx5.php?id=66236
-#EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" & Explore HD
-#EXTGRP:English
+#EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png"group-title="English", & Explore HD
 http://port.denver1769.fun/oplx5.php?id=66241
 #EXTINF:-1,Sony Pix HD
 #EXTGRP:English
