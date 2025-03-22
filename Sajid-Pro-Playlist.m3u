@@ -84,16 +84,16 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 http://103.122.74.6:8888/hls/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="HINDI", SONY TV HD
-http://port.denver1769.fun/oplx5.php?id=66165
+http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
-http://port.denver1769.fun/oplx5.php?id=66208
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-http://port.denver1769.fun/oplx5.php?id=221254
+http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
-http://port.denver1769.fun/oplx5.php?id=66163
+http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
 http://port.denver1769.fun/oplx5.php?id=66171
