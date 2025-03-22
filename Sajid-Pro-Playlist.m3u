@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:-1,tvg-logo="" group-title="BANGLADESHI", NAGORIK TV
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", NAGORIK TV
 http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", ATN BANGLA
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=ATN-BANGLA&e=.m3u8
