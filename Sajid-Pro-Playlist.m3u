@@ -122,7 +122,7 @@ http://port.denver1769.fun/oplx5.php?id=66236
 http://port.denver1769.fun/oplx5.php?id=66241
 #EXTINF:-1,SONY PIX HD
 #EXTGRP:ENGLISH
-http://port.denver1769.fun/oplx5.php?id=66224
+http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
 #EXTINF:-1,& PRIVE HD
 #EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66228
@@ -162,7 +162,7 @@ http://port.denver1769.fun/oplx5.php?id=112983
 http://port.denver1769.fun/oplx5.php?id=66199
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=206315
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 #EXTINF:-1,BFLIX
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a0cr/index.m3u8
@@ -212,10 +212,10 @@ https://freelivtvoppuback.vercel.app/vishwas.m3u8?id=112988&token=freelivtv
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=167578
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=167579
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",SONY TEN 1 HD
