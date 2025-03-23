@@ -210,9 +210,9 @@ http://202.164.50.194:8000/play/a06l/index.m3u8
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 #EXTINF:-1  group-title="MUSIC" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC", Zoom TV
 https://freelivtvoppuback.vercel.app/vishwas.m3u8?id=66190&token=freelivtv
-#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="MUSIC", Mastii
 https://freelivtvoppuback.vercel.app/vishwas.m3u8?id=112988&token=freelivtv
 
 
