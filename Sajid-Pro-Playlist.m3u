@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", DURANTA TV
+http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESHI",EKUSEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
@@ -111,6 +113,8 @@ http://port.denver1769.fun/oplx5.php?id=112979
 http://port.denver1769.fun/oplx5.php?id=66172
 
 
+#EXTINF:-1 tvg-logo="" group-title="ENGLISH", & XPLOR HD
+http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 #EXTINF:-1,STAR MOVIES SELECT HD
 #EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66315
@@ -136,7 +140,7 @@ http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=66176
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:Movies
 http://port.denver1769.fun/oplx5.php?id=66186
