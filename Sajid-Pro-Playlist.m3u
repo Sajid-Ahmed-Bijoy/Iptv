@@ -129,9 +129,9 @@ http://port.denver1769.fun/oplx5.php?id=66228
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png" ,STAR MOVIES HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
-#EXTINF:-1,STAR GOLD 2
+#EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
-http://rkcdigital.com.np/mrdplaylist.php?id=157081
+http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66176
