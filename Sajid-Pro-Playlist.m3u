@@ -64,7 +64,7 @@ http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-http://starshare.org:8080/live/11222/11222/271038.ts
+http://rkcdigital.com.np/mrdplaylist.php?id=271038
 #EXTINF:-1,ZEE BANGLA CINEMA
 #EXTGRP:BANGLA
 http://mega4k.one:8080/live/211994/211994/131986.ts
