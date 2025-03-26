@@ -70,7 +70,7 @@ https://play.denver1769.fun/Play/v18/index.php?id=896
 http://mega4k.one:8080/live/211994/211994/131986.ts
 #EXTINF:-1,SONY AATH
 #EXTGRP:BANGLA
-http://103.122.74.6:8888/hls/SONY.AAT.m3u8
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
 http://103.122.74.6:8888/hls/starJalsha.m3u8
@@ -90,7 +90,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 http://103.122.74.6:8888/hls/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="HINDI", SONY TV HD
-http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
 http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
@@ -104,7 +104,7 @@ http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
 #EXTGRP:HINDI
 http://103.122.74.6:8888/hls/STAR.BARAT.HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="HINDI", SONY SAB HD
-http://port.denver1769.fun/oplx5.php?id=104194
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1,SONY PAL
 #EXTGRP:HINDI
 http://port.denver1769.fun/oplx5.php?id=104192
@@ -128,7 +128,7 @@ http://port.denver1769.fun/oplx5.php?id=66236
 http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 #EXTINF:-1,SONY PIX HD
 #EXTGRP:ENGLISH
-http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1,& PRIVE HD
 #EXTGRP:ENGLISH
 http://port.denver1769.fun/oplx5.php?id=66228
@@ -157,10 +157,10 @@ http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-tvpictureshd
 #EXTINF:-1,SONY MAX HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1,SONY MAX 2
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=66189
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
 http://port.denver1769.fun/oplx5.php?id=112983
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
