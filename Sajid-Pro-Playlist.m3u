@@ -154,7 +154,7 @@ http://port.denver1769.fun/oplx5.php?id=206271
 #EXTGRP:MOVIES
 http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
-http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
+https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-tvpictureshd
 #EXTINF:-1,SONY MAX HD
 #EXTGRP:MOVIES
 http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
