@@ -180,7 +180,7 @@ https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=234
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=240
 #EXTINF:-1,GOLDMINES BOLLYWOOD
 #EXTGRP:MOVIES
-http://cp.b1g.ooo/live/0178/8710/417581.ts
+http://202.164.50.194:8000/play/a08e/index.m3u8
 #EXTINF:-1 group-title="MOVIES", GOLDMINES ACTION
 http://202.164.50.194:8000/play/a090/index.m3u8
 #EXTINF:-1,B4U MOVIES
@@ -188,7 +188,7 @@ http://202.164.50.194:8000/play/a090/index.m3u8
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=228
 #EXTINF:-1,B4U KHADAK
 #EXTGRP:Movies
-http://cp.b1g.ooo/live/0178/8710/675569.ts
+http://202.164.50.194:8000/play/a070/index.m3u8
 #EXTINF:-1,Star UTSAB MOVIES
 #EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=104199
