@@ -140,19 +140,19 @@ http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
+http://cp.b1g.ooo/live/0178/8710/8703.ts
 #EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:Movies
-http://port.denver1769.fun/oplx5.php?id=66186
+http://cp.b1g.ooo/live/0178/8710/791610.ts
 #EXTINF:-1,STAR GOLD HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
+http://cp.b1g.ooo/live/0178/8710/161928.ts
 #EXTINF:-1,ZEE CINEMA
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=206271
+http://cp.b1g.ooo/live/0178/8710/163708.ts
 #EXTINF:-1,ZEE CINEMA HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
+http://cp.b1g.ooo/live/0178/8710/161951.ts
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-tvpictureshd
 #EXTINF:-1,SONY MAX HD
