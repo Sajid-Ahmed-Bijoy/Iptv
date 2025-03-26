@@ -61,7 +61,7 @@ http://103.122.74.6:8888/hls/tsports.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
+https://play.denver1769.fun/Play/v18/index.php?id=305
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 https://play.denver1769.fun/Play/v18/index.php?id=896
@@ -96,7 +96,7 @@ http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-http://103.122.74.6:8888/hls/COLORS.HD.m3u8
+https://play.denver1769.fun/Play/v18/index.php?id=52
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
 http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
@@ -168,7 +168,7 @@ http://port.denver1769.fun/oplx5.php?id=112983
 http://port.denver1769.fun/oplx5.php?id=66199
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
+https://play.denver1769.fun/Play/v18/index.php?id=61
 #EXTINF:-1,BFLIX
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a0cr/index.m3u8
