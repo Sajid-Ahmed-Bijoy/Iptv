@@ -140,24 +140,24 @@ http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://cp.b1g.ooo/live/0178/8710/8703.ts
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:Movies
 http://cp.b1g.ooo/live/0178/8710/791610.ts
 #EXTINF:-1,STAR GOLD HD
 #EXTGRP:MOVIES
-http://cp.b1g.ooo/live/0178/8710/161928.ts
+http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 #EXTINF:-1,ZEE CINEMA
 #EXTGRP:MOVIES
 http://cp.b1g.ooo/live/0178/8710/163708.ts
 #EXTINF:-1,ZEE CINEMA HD
 #EXTGRP:MOVIES
-http://cp.b1g.ooo/live/0178/8710/161951.ts
+http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
-http://cp.b1g.ooo/live/0178/8710/14523.ts
+http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
 #EXTINF:-1,SONY MAX HD
 #EXTGRP:MOVIES
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 #EXTINF:-1,SONY MAX 2
 #EXTGRP:MOVIES
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
@@ -168,7 +168,7 @@ https://play.denver1769.fun/Play/v18/index.php?id=1000
 https://play.denver1769.fun/Play/v18/index.php?id=ts372
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-https://play.denver1769.fun/Play/v18/index.php?id=61
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 #EXTINF:-1,BFLIX
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a0cr/index.m3u8
