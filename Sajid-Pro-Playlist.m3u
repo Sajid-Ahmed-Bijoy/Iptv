@@ -117,13 +117,13 @@ http://port.denver1769.fun/oplx5.php?id=66172
 
 #EXTINF:-1,STAR MOVIES SELECT HD
 #EXTGRP:ENGLISH
-http://port.denver1769.fun/oplx5.php?id=66315
+http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
-http://port.denver1769.fun/oplx5.php?id=66287
+http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
 #EXTINF:-1,& FLIX HD
 #EXTGRP:ENGLISH
-http://port.denver1769.fun/oplx5.php?id=66236
+http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
 #EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & XPLOR HD
 http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 #EXTINF:-1,SONY PIX HD
@@ -131,7 +131,7 @@ http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1,& PRIVE HD
 #EXTGRP:ENGLISH
-http://port.denver1769.fun/oplx5.php?id=66228
+http://103.122.74.6:8888/hls/AND.PRIVE.HD.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png" ,STAR MOVIES HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
