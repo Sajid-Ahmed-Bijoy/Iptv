@@ -121,18 +121,17 @@ http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
 http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
-#EXTINF:-1,& FLIX HD
-#EXTGRP:ENGLISH
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="ENGLISH", & FLIX HD
 http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
 #EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & XPLOR HD
 http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 #EXTINF:-1,SONY PIX HD
 #EXTGRP:ENGLISH
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-#EXTINF:-1,& PRIVE HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", & PRIVE HD
 #EXTGRP:ENGLISH
 http://103.122.74.6:8888/hls/AND.PRIVE.HD.m3u8
-#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Romedy Now1689427170.png" ,STAR MOVIES HD
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://static.epg.best/in/StarMovies.in.png" ,STAR MOVIES HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
 #EXTINF:-1,STAR GOLD 2 HD
