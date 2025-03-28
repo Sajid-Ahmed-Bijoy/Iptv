@@ -224,18 +224,49 @@ http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 3 HD
+http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", A SPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ASTRO CRICKET
+http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS CRICKET
+http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", SUPER SPORTS CRICKET
+http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",SONY TEN 1 HD
-#EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167570
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",SONY TEN 2 HD
-#EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167571
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",SONY TEN 3 HD
-#EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=167572
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",SONY TEN 5 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=167595
+http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", ALBA XXX 1 HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", ALBA XXX 2 HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", BABES HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", BANG BROS HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", DORCEL HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE GOLD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID RED HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", MIA KHALIFA HD
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", HUSTLER HD
 
