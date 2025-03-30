@@ -61,7 +61,7 @@ http://103.122.74.6:8888/hls/tsports.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-https://play.denver1769.fun/Play/v18/index.php?id=305
+http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 https://play.denver1769.fun/Play/v18/index.php?id=896
