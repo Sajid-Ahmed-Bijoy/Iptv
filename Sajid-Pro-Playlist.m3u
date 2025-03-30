@@ -89,7 +89,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
 http://103.122.74.6:8888/hls/zeebangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="HINDI", SONY TV HD
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", SONY TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
