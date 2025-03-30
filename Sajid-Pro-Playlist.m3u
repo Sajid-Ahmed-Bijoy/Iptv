@@ -243,9 +243,9 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ASTRO CRICKET
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SKY SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLPeBw94MGLtdWuJMnIqnfLhG4NbS3lEQdkFrdUL8-EWnqv0bjuyNXRs&s=10" group-title="SPORTS", SKY SPORTS CRICKET
 http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", SUPER SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SPORTS", SUPER SPORTS CRICKET
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",SONY TEN 1 HD
