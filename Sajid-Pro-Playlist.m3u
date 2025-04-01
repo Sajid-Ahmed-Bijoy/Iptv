@@ -182,12 +182,12 @@ http://78.40.140.201:9321/86e4228d28529e51b7bbb93d2adf79134b7fb6709a240d432f7814
 http://78.40.140.201:9321/86e4228d28529e51b7bbb93d2ad26111586ea87191290d51327115ed14b6bbbe7a48dfe122/tracks-v1a1/mono.m3u8?token=94c272986990ce61600e652335e80b4b7cd24f5e601a8149a1acbc9f6043de421c76b600059e7668cc2826995bdfa2ef87602cd89e434e1fef99ec5025b71e348d8eb2a629-4c43e9fb7f7e3a4815301461d7582af1
 #EXTINF:-1,ZEE CINEMA
 #EXTGRP:MOVIES
-http://cp.b1g.ooo/live/0178/8710/163708.ts
+http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/276651.ts
 #EXTINF:-1,ZEE CINEMA HD
 #EXTGRP:MOVIES
-http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
+http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/496674.ts
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
-http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
+http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/496695.ts
 #EXTINF:-1,tgv-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES", SONY MAX HD
 http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 #EXTINF:-1,SONY MAX 2
