@@ -208,10 +208,10 @@ http://202.164.50.194:8000/play/a0cr/index.m3u8
 http://78.40.140.201:9321/86e4228d28529e51b7bbb93d2ad86713507ea06d913806493f6019e81aadbbb2/tracks-v1a1/mono.m3u8?token=c703f9fec97ac0803d8b6a3f3758385fa398ad782fb6748ac2948a36a45fb1de5bcc59eaa1d10563fcc1597cb91d723735e27ffcff22540e6182c66e555972898a1ffb4fc7-21e3ff1cbae5a424a646bcededc29130
 #EXTINF:-1,GOLDMINES
 #EXTGRP:MOVIES
-https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=234
+http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/497824.ts
 #EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:MOVIES
-https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=240
+http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/497823.ts
 #EXTINF:-1,GOLDMINES BOLLYWOOD
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a08e/index.m3u8
