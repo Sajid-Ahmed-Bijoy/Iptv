@@ -91,7 +91,7 @@ http://103.122.74.6:8888/hls/tsports.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
+https://www.tbn24.com/api/video/4041_0.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 https://play.denver1769.fun/Play/v18/index.php?id=896
@@ -123,7 +123,7 @@ http://103.122.74.6:8888/hls/zeebangla.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
-http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
+https://www.tbn24.com/api/video/4039_0.m3u8
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
 http://103.122.74.6:8888/hls/COLORS.HD.m3u8
@@ -132,7 +132,7 @@ http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
-http://103.122.74.6:8888/hls/STAR.BARAT.HD.m3u8
+https://www.tbn24.com/api/video/4032_0.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="HINDI", SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1,SONY PAL
@@ -142,7 +142,7 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTGRP:HINDI
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="HINDI",& TV HD
-http://port.denver1769.fun/oplx5.php?id=66172
+https://www.tbn24.com/api/video/4051_0.m3u8
 
 
 #EXTINF:-1,STAR MOVIES SELECT HD
