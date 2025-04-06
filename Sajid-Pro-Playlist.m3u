@@ -89,6 +89,9 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 03
 http://103.122.74.6:8888/hls/tsports.m3u8
 
+#EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 04
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
+
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
 https://www.tbn24.com/api/video/4041_0.m3u8
