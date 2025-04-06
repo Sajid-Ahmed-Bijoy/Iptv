@@ -150,7 +150,7 @@ https://www.tbn24.com/api/video/4051_0.m3u8
 
 #EXTINF:-1,STAR MOVIES SELECT HD
 #EXTGRP:ENGLISH
-http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
+http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
 http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
@@ -169,10 +169,10 @@ http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
-http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/497798.ts
+http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/275051.ts
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:Movies
 http://cp.b1g.ooo/live/0178/8710/791610.ts
@@ -188,7 +188,7 @@ http://78.40.140.201:9321/86e4228d28529e51b7bbb93d2ad26111586ea87191290d51327115
 http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/276651.ts
 #EXTINF:-1,ZEE CINEMA HD
 #EXTGRP:MOVIES
-http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/496674.ts
+
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
 http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/496695.ts
 #EXTINF:-1,tgv-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES", SONY MAX HD
