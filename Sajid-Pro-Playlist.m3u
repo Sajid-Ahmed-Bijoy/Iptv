@@ -155,7 +155,7 @@ http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
 #EXTGRP:ENGLISH
 http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="ENGLISH", & FLIX HD
-http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
+http://103.211.103.30:8880/live/6mkk030003/45633445/1956.ts
 #EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & XPLOR HD
 http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 #EXTINF:-1,SONY PIX HD
@@ -163,7 +163,7 @@ http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", & PRIVE HD
 #EXTGRP:ENGLISH
-http://103.122.74.6:8888/hls/AND.PRIVE.HD.m3u8
+http://103.211.103.30:8880/live/6mkk030003/45633445/1963.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://static.epg.best/in/StarMovies.in.png" ,STAR MOVIES HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
@@ -190,14 +190,14 @@ http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/276651.ts
 #EXTGRP:MOVIES
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES",& PICTURES HD
-http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/496695.ts
+http://103.211.103.30:8880/live/6mkk030003/45633445/1964.ts
 #EXTINF:-1,tgv-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES", SONY MAX HD
 http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 #EXTINF:-1,SONY MAX 2
 #EXTGRP:MOVIES
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-https://play.denver1769.fun/Play/v18/index.php?id=1000
+http://103.211.103.30:8880/live/6mkk030003/45633445/1929.ts
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
 https://play.denver1769.fun/Play/v18/index.php?id=ts372
