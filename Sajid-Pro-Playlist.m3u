@@ -112,7 +112,7 @@ http://103.122.74.6:8888/hls/starJalsha.m3u8
 http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
-http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
+https://livetvbox.live/live/5045123/5045123/23304.m3u8
 #EXTINF:-1,SANGEET BANGLA
 #EXTGRP:BANGLA
 http://202.164.50.194:8000/play/a06m/index.m3u8
@@ -120,7 +120,7 @@ http://202.164.50.194:8000/play/a06m/index.m3u8
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
-http://103.122.74.6:8888/hls/zeebangla.m3u8
+https://livetvbox.live/live/5045123/5045123/23305.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", SONY TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
