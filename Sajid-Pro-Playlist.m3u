@@ -93,10 +93,10 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 03
-http://103.122.74.6:8888/hls/tsports.m3u8
+https://www.tbn24.com/api/video/4031_0.m3u8
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 04
-http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
@@ -252,7 +252,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 tvg-log="" group-title="INFORMATION", DISCOVERY BANGLA HD
-http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
+http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF MUSIC HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
