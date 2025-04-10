@@ -212,6 +212,7 @@ https://play.denver1769.fun/Play/v18/index.php?id=ts372
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
 http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
+
 #EXTINF:-1,BFLIX
 #EXTGRP:MOVIES
 
@@ -232,7 +233,7 @@ http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a0la/index.m3u8
 #EXTINF:-1,B4U KHADAK
-#EXTGRP:Movies
+#EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a070/index.m3u8
 #EXTINF:-1,Star UTSAB MOVIES
 #EXTGRP:MOVIES
@@ -244,7 +245,7 @@ http://port.denver1769.fun/oplx5.php?id=389767
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",THE TOM AND JERRY SHOW FHD
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx5.php?id=389758
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:AwIs5BANGLADESHUF58DK9qrsQ&s" group-title="KIDS" ,JUNGLE BOOK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:AwIs5BANGLADESHUF58DK9qrsQ&s.png" group-title="KIDS" ,JUNGLE BOOK
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 
