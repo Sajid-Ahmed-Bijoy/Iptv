@@ -263,12 +263,14 @@ http://202.164.50.194:8000/play/a06l/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC" ,9X TASHAN
 https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=255
 #EXTINF:-1  group-title="MUSIC" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
-https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=260
+https://freelivtvopplex.vercel.app/play.m3u8?id=66203
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC", ZOOM TV
 https://freelivtvopplex.vercel.app/play.m3u8?id=66190
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MASTI
 https://freelivtvoppuback.vercel.app/vishwas.m3u8?id=112988&token=freelivtv
 
+#EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="WWE", WWE
+https://freelivtvopplex.vercel.app/play.m3u8?id=388817
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 #EXTVLCOPT:http-user-agent=Denver1769
