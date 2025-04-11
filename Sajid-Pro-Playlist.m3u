@@ -106,7 +106,7 @@ https://www.tbn24.com/api/video/4041_0.m3u8
 http://play.denver1769.fun/Play/TP.php?id=896
 #EXTINF:-1,ZEE BANGLA CINEMA
 #EXTGRP:BANGLA
-https://re-streaming-xfireflix.vercel.app/api/OPX/245897.m3u8
+https://freelivtvopplex.vercel.app/play.m3u8?id=245897
 #EXTINF:-1,SONY AATH
 #EXTGRP:BANGLA
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
@@ -115,7 +115,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://allinonereborn.com/tata-tv.php?id=12101
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
-http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
+https://freelivtvopplex.vercel.app/play.m3u8?id=245906
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
 https://allinonereborn.com/tata-tv.php?id=232265
 #EXTINF:-1,JALSHA MOVIES HD
