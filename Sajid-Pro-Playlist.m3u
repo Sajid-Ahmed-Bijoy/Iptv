@@ -319,8 +319,8 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", ERO XXX HD
+http://103.211.103.30:8880/live/6mkk030003/45633445/2978.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID TV
 http://103.211.103.30:8880/live/6mkk030003/45633445/2970.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DUSK
