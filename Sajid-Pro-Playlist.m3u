@@ -263,7 +263,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-log="" group-title="INFORMATION", DISCOVERY BANGLA HD
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC",YRF MUSIC HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",MUSIC INDIA
 https://freelivtvopplex.vercel.app/play.m3u8?id=190028
