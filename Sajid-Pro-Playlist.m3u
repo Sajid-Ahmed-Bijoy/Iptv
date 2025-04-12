@@ -251,11 +251,9 @@ https://freelivtvopplex.vercel.app/play.m3u8?id=104199
 https://freelivtvopplex.vercel.app/play.m3u8?id=112971
 
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",TOM AND JERRY CLASSIC FHD
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=389767
+
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",THE TOM AND JERRY SHOW FHD
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.fun/oplx5.php?id=389758
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS" ,JUNGLE BOOK
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
