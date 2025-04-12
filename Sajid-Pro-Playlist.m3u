@@ -274,6 +274,8 @@ https://freelivtvopplex.vercel.app/play.m3u8?id=66190
 https://freelivtvopplex.vercel.app/play.m3u8?id=112988
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", SHOW BOX
 https://freelivtvopplex.vercel.app/play.m3u8?id=383529
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", HINDI HITS HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="WWE", WWE
 https://freelivtvopplex.vercel.app/play.m3u8?id=388817
