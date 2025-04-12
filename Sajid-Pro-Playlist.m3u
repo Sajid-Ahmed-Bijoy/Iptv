@@ -281,11 +281,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://freelivtvopplex.vercel.app/play.m3u8?id=388817
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
+http://play.denver1769.fun/Play/TP.php?id=246
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
+http://play.denver1769.fun/Play/TP.php?id=463
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
 http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
