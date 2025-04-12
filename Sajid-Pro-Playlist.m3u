@@ -313,6 +313,14 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID TV
 http://103.211.103.30:8880/live/6mkk030003/45633445/2970.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DUSK
@@ -349,6 +357,10 @@ http://filex.tv:8080/live/@TX600/A4qxv5wJLwQJ/291738.ts
 http://103.211.103.30:8880/live/6mkk030003/45633445/2982.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DORCEL XXX HD
 http://103.211.103.30:8880/live/6mkk030003/45633445/2981.ts
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE REALITY
+http://103.211.103.30:8880/live/6mkk030003/45633445/2976.ts
+#EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE PASSION
+http://103.211.103.30:8880/live/6mkk030003/45633445/2975.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE GOLD
 http://103.211.103.30:8880/live/6mkk030003/45633445/2977.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID RED HD
