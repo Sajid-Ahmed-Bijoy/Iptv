@@ -123,7 +123,7 @@ https://allinonereborn.com/tata-tv.php?id=232265
 http://play.denver1769.fun/Play/TP.php?id=537
 #EXTINF:-1,SANGEET BANGLA
 #EXTGRP:BANGLA
-http://202.164.50.194:8000/play/a06m/index.m3u8
+https://newhub247.store/newsh/live.m3u8?id=740
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -165,9 +165,9 @@ http://humsab.xyz/PAK_HUMTVG/tracks-v1a1/mono.m3u8
 https://allinonereborn.com/tata-tv.php?id=1125
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
-http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
+http://tv.bdiptv.store/live/restream/restream/15305.ts
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="ENGLISH", & FLIX HD
-https://allinonereborn.com/tata-tv.php?id=11624
+http://tv.bdiptv.store/live/restream/restream/15334.ts
 #EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & XPLOR HD
 https://allinonereborn.com/tata-tv.php?id=11619
 #EXTINF:-1,SONY PIX HD
@@ -175,9 +175,9 @@ https://allinonereborn.com/tata-tv.php?id=11619
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg", & PRIVE HD
 #EXTGRP:ENGLISH
-https://allinonereborn.com/tata-tv.php?id=11618
+http://tv.bdiptv.store/live/restream/restream/15304.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://static.epg.best/in/StarMovies.in.png" ,STAR MOVIES HD
-https://allinonereborn.com/tata-tv.php?id=11677
+http://tv.bdiptv.store/live/restream/restream/95.ts
 
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
@@ -230,7 +230,8 @@ https://allinonereborn.com/test.m3u8?id=99851
 #EXTINF:-1,GOLDMINES
 #EXTGRP:MOVIES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
@@ -281,6 +282,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="WWE", WWE
 https://freelivtvopplex.vercel.app/play.m3u8?id=388817
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN CRICKET
+http://tv.bdiptv.store/live/restream/restream/8.ts
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://play.denver1769.fun/Play/TP.php?id=246
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
