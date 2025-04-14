@@ -98,6 +98,13 @@ https://www.tbn24.com/api/video/4031_0.m3u8
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 04
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 
+#EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 05
+http://tv.bdiptv.store/live/restream/restream/15263.ts
+
+#EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 06
+http://tv.bdiptv.store/live/restream/restream/37.m3u8
+
+
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
 https://www.tbn24.com/api/video/4041_0.m3u8
@@ -169,7 +176,7 @@ http://tv.bdiptv.store/live/restream/restream/15305.ts
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="ENGLISH", & FLIX HD
 http://tv.bdiptv.store/live/restream/restream/15334.ts
 #EXTINF:-1, tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="ENGLISH", & XPLOR HD
-https://allinonereborn.com/tata-tv.php?id=11619
+http://tv.bdiptv.store/live/restream/restream/15335.ts
 #EXTINF:-1,SONY PIX HD
 #EXTGRP:ENGLISH
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
@@ -285,7 +292,7 @@ https://freelivtvopplex.vercel.app/play.m3u8?id=388817
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN CRICKET
 http://tv.bdiptv.store/live/restream/restream/8.ts
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://play.denver1769.fun/Play/TP.php?id=246
+http://tv.bdiptv.store/live/restream/restream/88.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://play.denver1769.fun/Play/TP.php?id=463
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
