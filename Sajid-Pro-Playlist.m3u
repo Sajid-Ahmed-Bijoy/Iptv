@@ -119,7 +119,7 @@ http://tv.bdiptv.store/live/restream/restream/27.m3u8
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
-https://allinonereborn.com/tata-tv.php?id=12101
+http://tv.bdiptv.store/live/restream/restream/52.m3u8
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
 http://tv.bdiptv.store/live/restream/restream/143.ts
@@ -135,7 +135,7 @@ https://newhub247.store/newsh/live.m3u8?id=740
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
-http://xtvplayer.top:8080/live/iftekharahmed/85736261/245893.ts
+http://tv.bdiptv.store/live/restream/restream/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", SONY TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -147,7 +147,7 @@ https://www.tbn24.com/api/video/4039_0.m3u8
 https://freelivtvopplex.vercel.app/play.m3u8?id=109947
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
-https://allinonereborn.com/tata-tv.php?id=11694
+http://tv.bdiptv.store/live/restream/restream/22.m3u8
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
 https://www.tbn24.com/api/video/4032_0.m3u8
