@@ -105,9 +105,6 @@ http://tv.bdiptv.store/live/restream/restream/15263.ts
 http://tv.bdiptv.store/live/restream/restream/37.m3u8
 
 
-#EXTINF:-1 tgv-logo="" group-title="SPORTS", T SPORTS
-https://tv.mymoviebazar.net/stream/stream56.m3u8
-
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
 https://www.tbn24.com/api/video/4041_0.m3u8
