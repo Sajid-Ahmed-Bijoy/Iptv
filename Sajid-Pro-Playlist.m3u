@@ -16,7 +16,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mR7dQk1/images.png" group-title="BANGLADESHI", ATN BANGLA
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+http://38.96.178.201/live/ATNBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/VabNy" group-title="BANGLADESHI", CHANNEL 24
 https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
@@ -43,28 +43,28 @@ https://www.tbn24.com/api/video/4013_0.m3u8
 https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="BANGLADESHI", CHANNEL I
-https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
+http://38.96.178.201/live/ChannelI/index.m3u8
 
 #EXTINF-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESHI", SA TV
-https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+http://38.96.178.201/live/SATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="BANGLADESHI", JAMUNA TV
-https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+http://38.96.178.201/live/JamunaTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESHI", DBC NEWS
 https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI", BIJOY TV
-https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+http://38.96.178.201/live/BijoyTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x67896" group-title="BANGLADESHI", ANANDO TV
 https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI", N TV
-https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
+http://38.96.178.201/live/NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="BANGLADESHI", INDIPENDENT TV
-https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
+http://38.96.178.201/live/Independent/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="BANGLADESHI", SOMOY TV
 https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
@@ -73,10 +73,10 @@ https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m
 https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s" group-title="BANGLADESHI", BANGLAVISION
-https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+http://38.96.178.201/live/BanglaVision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x67896" group-title="BANGLADESHI", CHANNEL 9 TV
-https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+http://38.96.178.201/live/Channel9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", MY TV
 https://mytvbangla.com/0.m3u8
@@ -99,7 +99,7 @@ https://www.tbn24.com/api/video/4031_0.m3u8
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 05
-http://tv.bdiptv.store/live/restream/restream/15263.ts
+http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 06
 http://tv.bdiptv.store/live/restream/restream/37.m3u8
@@ -119,7 +119,7 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
-http://play.denver1769.fun/Play/TP.php?id=468
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
 http://tv.bdiptv.store/live/restream/restream/143.ts
@@ -130,7 +130,7 @@ https://allinonereborn.com/tata-tv.php?id=232265
 http://play.denver1769.fun/Play/TP.php?id=537
 #EXTINF:-1,SANGEET BANGLA
 #EXTGRP:BANGLA
-https://newhub247.store/newsh/live.m3u8?id=740
+http://38.96.178.201/live/SangeetBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -303,7 +303,7 @@ http://play.denver1769.fun/Play/TP.php?id=235
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 3 HD
 https://tv.mymoviebazar.net/stream/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORTS", A SPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", ASTRO CRICKET
