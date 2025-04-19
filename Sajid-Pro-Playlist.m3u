@@ -105,6 +105,9 @@ http://tv.bdiptv.store/live/restream/restream/15263.ts
 http://tv.bdiptv.store/live/restream/restream/37.m3u8
 
 
+#EXTINF:-1 tgv-logo="" group-title="SPORTS", T SPORTS
+https://tv.mymoviebazar.net/stream/stream56.m3u8
+
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
 https://www.tbn24.com/api/video/4041_0.m3u8
@@ -301,7 +304,7 @@ http://play.denver1769.fun/Play/TP.php?id=78
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
 http://play.denver1769.fun/Play/TP.php?id=235
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 3 HD
-http://supersonictv.live:8080/live/227058/272105/85652.ts
+https://tv.mymoviebazar.net/stream/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORTS", A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS", TEN SPORTS HD
