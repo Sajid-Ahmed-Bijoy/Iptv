@@ -162,7 +162,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="HINDI",& TV HD
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="HINDI", COLORS RISHTEY
-http://cp.b1g.ooo/live/0178/8710/8524.ts
+http://103.168.18.83/ninja/live/op/master.m3u8/?id=66188
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN", HUM TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
@@ -219,10 +219,10 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTGRP:MOVIES
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-https://allinonereborn.com/tata-tv.php?id=8562
+http://103.168.18.83/ninja/live/op/master.m3u8/?id=112983
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
-https://freelivtvopplex.vercel.app/play.m3u8?id=66199
+http://103.168.18.83/ninja/live/op/master.m3u8/?id=66199
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
 http://gotit14.xyz/live/2F635BX/ZJX02CY/72512.ts
