@@ -278,7 +278,7 @@ https://freelivtvopplex.vercel.app/play.m3u8?id=190028
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC" ,9X TASHAN
 https://freelivtvopplex.vercel.app/play.m3u8?id=66289
 #EXTINF:-1  group-title="MUSIC" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
-https://freelivtvopplex.vercel.app/play.m3u8?id=66203
+http://38.96.178.201/live/B4UMusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC", ZOOM TV
 https://freelivtvopplex.vercel.app/play.m3u8?id=66190
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", MASTI
