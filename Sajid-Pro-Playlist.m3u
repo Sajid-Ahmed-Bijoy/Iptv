@@ -275,6 +275,8 @@ http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",MUSIC INDIA
 https://freelivtvopplex.vercel.app/play.m3u8?id=190028
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", 9X JALWA
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC" ,9X TASHAN
 https://freelivtvopplex.vercel.app/play.m3u8?id=66289
 #EXTINF:-1  group-title="MUSIC" tvg-logo="https://epg.pishow.tv/bucket/images/B4U-MUSIC.png",B4U MUSIC
