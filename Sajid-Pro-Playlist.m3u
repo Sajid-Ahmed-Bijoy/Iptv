@@ -10,7 +10,7 @@ https://www.tbn24.com/api/video/4042_0.m3u8
 https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESHI",EKUSEY TV
-https://ekusheyserver.com/etvlivesn.m3u8
+http://103.89.248.130:8082/EKUSHEY-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
 http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
@@ -127,7 +127,7 @@ http://tv.bdiptv.store/live/restream/restream/143.ts
 https://allinonereborn.com/tata-tv.php?id=232265
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
-http://play.denver1769.fun/Play/TP.php?id=537
+http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
 #EXTINF:-1,SANGEET BANGLA
 #EXTGRP:BANGLA
 http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
