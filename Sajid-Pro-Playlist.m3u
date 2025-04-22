@@ -13,7 +13,7 @@ https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
-http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
+http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mR7dQk1/images.png" group-title="BANGLADESHI", ATN BANGLA
 http://38.96.178.201/live/ATNBangla/index.m3u8
@@ -107,7 +107,7 @@ http://tv.bdiptv.store/live/restream/restream/37.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-https://5hrr.short.gy/clrsbngla_kashurflix.m3u8
+http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 http://play.denver1769.fun/Play/TP.php?id=896
