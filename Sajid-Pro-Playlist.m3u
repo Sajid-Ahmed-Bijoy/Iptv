@@ -293,7 +293,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="WWE", WWE
 https://5hrr.short.gy/wwe_kashurflix.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TEN CRICKET
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="SPORTS", TEN CRICKET
 http://tv.bdiptv.store/live/restream/restream/8.ts
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://tv.bdiptv.store/live/restream/restream/88.ts
@@ -315,7 +315,7 @@ https://re.fredflix.fun/sports/live.php?cid=370&e=.m3u8
 https://5hrr.short.gy/skycric_tg_kashurflix.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SPORTS", SUPER SPORTS CRICKET
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", PTV SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", PTV SPORTS
 https://tvs2.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",SONY TEN 1 HD
