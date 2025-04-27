@@ -294,16 +294,16 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://5hrr.short.gy/wwe_kashurflix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="SPORTS", TEN CRICKET
-http://tv.bdiptv.store/live/restream/restream/8.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://103.89.248.130:8082/Ten-Cricket-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="STAR SPORTS",STAR SPORTS SELECT 1 HD
 http://103.89.248.130:8082/Star-sports-select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="STAR SPORTS",STAR SPORTS SELECT 2 HD
 http://103.89.248.130:8082/Star-sports-select-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD
+#EXTINF:-1 tvg-logo="" group-title="STAR SPORTS", STAR SPORTS 1 HD
 https://5hrr.short.gy/star1_kashurflix.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-logo="" group-title="STAR SPORTS", STAR SPORTS 2 HD
 https://5hrr.short.gy/star2_kashurflix.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", STAR SPORTS 3 HD
+#EXTINF:-1 tvg-logo="" group-title="STAR SPORTS", STAR SPORTS 3 HD
 https://5hrr.short.gy/star3_kashurflix.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="SPORTS", A SPORTS HD
 http://38.96.178.201/live/ASports/index.m3u8
@@ -318,22 +318,22 @@ http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", PTV SPORTS
 https://tvs2.aynaott.com/PtvSports/index.m3u8
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",SONY TEN 1 HD
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY SPORTS",SONY TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",SONY TEN 2 HD
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY SPORTS",SONY TEN 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS",SONY TEN 3 HD
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY SPORTS",SONY TEN 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",SONY TEN 5 HD
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SONY SPORTS",SONY TEN 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 4 HD
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONY SPORTS", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 1 
+#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS", TNT SPORTS 1 
 http://103.89.248.130:8082/TNT-Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 2
+#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS", TNT SPORTS 2
 http://103.89.248.130:8082/TNT-Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 3
+#EXTINF:-1 tvg-logo="" group-title="TNT SPORTS", TNT SPORTS 3
 http://103.89.248.130:8082/TNT-Sports-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", ERO XXX HD
