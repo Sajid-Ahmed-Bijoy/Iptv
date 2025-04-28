@@ -107,7 +107,7 @@ http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
+http://webo.asia/live/Sean/Sean55/17451.ts
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 http://play.denver1769.fun/Play/TP.php?id=896
@@ -122,9 +122,9 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://5hrr.short.gy/strjlsa_kashurflix.m3u8
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
-http://starshare.org/live/8402409/8402409/3753.ts
+http://webo.asia/live/Sean/Sean55/164452.ts
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
-https://himelop-pro.top/tv/box.m3u8?id=388692
+http://webo.asia/live/Sean/Sean55/791615.ts
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
 http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
@@ -144,7 +144,7 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 https://5hrr.short.gy/stplx_kashurflix.m3u8
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-http://103.168.18.83/ninja/live/op/master.m3u8/?id=109947
+http://webo.asia/live/Sean/Sean55/161849.ts
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
@@ -162,7 +162,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="HINDI",& TV HD
 https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="HINDI", COLORS RISHTEY
-http://103.168.18.83/ninja/live/op/master.m3u8/?id=66188
+http://webo.asia/live/Sean/Sean55/235949.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN", HUM TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
