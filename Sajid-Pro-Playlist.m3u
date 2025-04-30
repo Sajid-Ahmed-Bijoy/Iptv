@@ -96,7 +96,7 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 https://www.tbn24.com/api/video/4031_0.m3u8
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 04
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
+http://202.59.210.98/live/funtime/funtine/775.ts
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 05
 http://38.96.178.201/live/TSports/index.m3u8
