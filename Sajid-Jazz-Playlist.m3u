@@ -1,1 +1,13 @@
+#EXTINF:-1,STAR GOLD ROMANCE
+#EXTGRP:MOVIES
+https://allinonereborn.com/tech11.m3u8/?id=630
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="HINDI", COLORS RISHTEY
+https://allinonereborn.com/tech11.m3u8/?id=613
+
+#EXTINF:-1,COLORS BANGLA CINEMA
+#EXTGRP:BANGLA
+https://techparag.xyz/tp360/hls/manifest.m3u8?id=896
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
+http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
