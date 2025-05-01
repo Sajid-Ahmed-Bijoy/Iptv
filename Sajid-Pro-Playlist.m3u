@@ -219,13 +219,13 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTGRP:MOVIES
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-http://port.denver1769.fun/oplx5.php?id=112983
+https://allinonereborn.com/tech11.m3u8/?id=632
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=66199
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=104191
+https://allinonereborn.com/tech11.m3u8/?id=614
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ALL TIME MOVIES
 http://202.164.50.194:8000/play/a02d/index.m3u8
