@@ -240,20 +240,20 @@ http://202.164.50.194:8000/play/a03p/index.m3u8
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", GOLDMINES 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+http://202.164.50.194:8000/play/a02n/index.m3u8
 #EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1,GOLDMINES BOLLYWOOD
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=112973
+http://202.164.50.194:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES", GOLDMINES ACTION
 http://202.164.50.194:8000/play/a039/index.m3u8
 
 #EXTINF:-1,B4U MOVIES
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=104201
+http://103.89.248.130:8082/B4U-MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" ,B4U KHADAK
 #EXTGRP:MOVIES
 http://202.164.50.194:8000/play/a01i/index.m3u8
