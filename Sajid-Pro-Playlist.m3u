@@ -228,17 +228,17 @@ http://port.denver1769.fun/oplx5.php?id=66199
 http://port.denver1769.fun/oplx5.php?id=104191
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ALL TIME MOVIES
-http://play.denver1769.fun/Play/TP.php?id=1321
+http://202.164.50.194:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://b1g.fun/logos2/b_flix.jpg" ,BFLIX
 #EXTGRP:MOVIES
-https://allinonereborn.com/test.m3u8?id=99851
+http://202.164.50.194:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SOUTH TALK
 
 #EXTINF:-1,GOLDMINES
 #EXTGRP:MOVIES
-https://himelop-pro.top/tv/box.m3u8?id=112972
+http://202.164.50.194:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", GOLDMINES 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1,GOLDMINES MOVIES
@@ -249,13 +249,14 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://port.denver1769.fun/oplx5.php?id=112973
 
 #EXTINF:-1 group-title="MOVIES", GOLDMINES ACTION
+http://202.164.50.194:8000/play/a039/index.m3u8
 
 #EXTINF:-1,B4U MOVIES
 #EXTGRP:MOVIES
 http://port.denver1769.fun/oplx5.php?id=104201
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" ,B4U KHADAK
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=104199
+http://202.164.50.194:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" ,STAR UTSAB MOVIES
 #EXTGRP:MOVIES
 http://webo.asia/live/Sean/Sean55/8528.ts
