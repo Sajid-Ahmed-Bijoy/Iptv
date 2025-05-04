@@ -108,7 +108,7 @@ http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-http://atg100.xyz/live/443432469215731/4362020837/76179.ts
+https://5hrr.short.gy/clrsbngla_kashurflix.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
 https://techparag.xyz/tp360/hls/manifest.m3u8?id=305
@@ -142,16 +142,16 @@ https://5hrr.short.gy/zbngla.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
-https://allinonereborn.com/tech11.m3u8?id=1067
+https://5hrr.short.gy/stplx_kashurflix.m3u8
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-https://allinonereborn.com/tech11.m3u8/?id=603
+https://5hrr.short.gy/clrstv_KashurFlix.m3u8
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
-https://allinonereborn.com/tech11.m3u8/?id=586
+https://5hrr.short.gy/stbhrt_kashurflix.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="HINDI", SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1,SONY PAL
@@ -223,10 +223,10 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://allinonereborn.com/tech11.m3u8/?id=614
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
-http://port.denver1769.fun/oplx5.php?id=66199
+https://5hrr.short.gy/clrscnpsp_kashurflix.m3u8
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-https://allinonereborn.com/tech11.m3u8/?id=632
+https://5hrr.short.gy/clrsciplx_kashurflix.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ALL TIME MOVIES
 http://202.164.50.194:8000/play/a02d/index.m3u8
