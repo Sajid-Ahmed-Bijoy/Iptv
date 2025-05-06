@@ -114,7 +114,7 @@ https://5hrr.short.gy/clrsbngla_kashurflix.m3u8
 https://techparag.xyz/tp360/hls/manifest.m3u8?id=305
 #EXTINF:-1,ZEE BANGLA CINEMA
 #EXTGRP:BANGLA
-https://5hrr.short.gy/zbcin_kashurflix.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1,SONY AATH
 #EXTGRP:BANGLA
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
@@ -136,7 +136,7 @@ http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
-https://5hrr.short.gy/zbngla.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="HINDI", SONY TV HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -166,7 +166,7 @@ https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 https://allinonereborn.com/tech11.m3u8/?id=613
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN", HUM TV HD
-https://allinonereborn.com/tech11.m3u8/?id=675
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 
 #EXTINF:-1,STAR MOVIES SELECT HD
