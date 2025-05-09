@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESHI", EKHON TV
-https://www.tbn24.com/api/video/4043_0.m3u8
+http://103.89.248.130:8082/EKHON-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x67896" group-title="BANGLADESHI", BOISHAKHI TV
 https://www.tbn24.com/api/video/4042_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESHI", DURANTA TV
-https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+http://103.89.248.130:8082/DURONTO-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESHI",EKUSEY TV
 http://103.89.248.130:8082/EKUSHEY-TV/tracks-v1a1/mono.m3u8
@@ -25,25 +25,25 @@ https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m
 https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="http://bdix2.3utilities.com/we/assets/images/Masranga1667751530.png", MASRANGA
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://103.89.248.130:8082/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png", R TV
-https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
+http://103.89.248.130:8082/RTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="http://bdix2.3utilities.com/we/assets/images/GTV 31670253750.png",G TV 
-https://www.tbn24.com/api/video/4027_0.m3u8
+http://103.89.248.130:8082/GAZI-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="BANGLADESHI", MOHONA TV
-https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+http://103.89.248.130:8082/MOHONA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="BANGLADESHI", NEWS 24
-https://www.tbn24.com/api/video/4013_0.m3u8
+http://103.89.248.130:8082/NEWS-24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg" group-title="BANGLADESHI", DESH TV
 https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="BANGLADESHI", CHANNEL I
-http://38.96.178.201/live/ChannelI/index.m3u8
+http://103.89.248.130:8082/CHANNAL-I/tracks-v1a1/mono.m3u8
 
 #EXTINF-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESHI", SA TV
 http://38.96.178.201/live/SATV/index.m3u8
@@ -55,16 +55,16 @@ http://38.96.178.201/live/JamunaTV/index.m3u8
 https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI", BIJOY TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
+http://103.89.248.130:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x67896" group-title="BANGLADESHI", ANANDO TV
-https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
+http://103.89.248.130:8082/ANANDA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI", N TV
-http://38.96.178.201/live/NTV/index.m3u8
+http://103.89.248.130:8082/NTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="BANGLADESHI", INDIPENDENT TV
-http://38.96.178.201/live/Independent/index.m3u8
+http://103.89.248.130:8082/INDEPENDENT-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="BANGLADESHI", SOMOY TV
 https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
@@ -73,16 +73,16 @@ https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m
 https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s" group-title="BANGLADESHI", BANGLAVISION
-http://38.96.178.201/live/BanglaVision/index.m3u8
+http://103.89.248.130:8082/BANGLAVISION-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x67896" group-title="BANGLADESHI", CHANNEL 9 TV
 http://38.96.178.201/live/Channel9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", MY TV
-https://mytvbangla.com/0.m3u8
+http://103.89.248.130:8082/MY-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="BANGLADESHI" group-title="",DEEPTO TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=3572082
+http://103.89.248.130:8082/DEEPTO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", NRB BANGLA
 https://allinonereborn.com/tech11.m3u8/?id=3526
@@ -123,7 +123,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://allinonereborn.com/tech11.m3u8/?id=534
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
-https://allinonereborn.com/tech11.m3u8/?id=3528
+http://103.89.248.130:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
 http://webo.asia/live/Sean/Sean55/791615.ts
 #EXTINF:-1,JALSHA MOVIES HD
