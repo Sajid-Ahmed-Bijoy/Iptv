@@ -19,7 +19,7 @@ http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
 http://38.96.178.201/live/ATNBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/VabNy" group-title="BANGLADESHI", CHANNEL 24
-https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
+http://103.89.248.130:8082/Chanal24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESHI", ASIAN TV
 https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
