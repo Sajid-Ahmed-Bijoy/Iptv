@@ -52,7 +52,7 @@ http://38.96.178.201/live/SATV/index.m3u8
 http://38.96.178.201/live/JamunaTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESHI", DBC NEWS
-https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+http://103.89.248.130:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI", BIJOY TV
 http://103.89.248.130:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
@@ -67,10 +67,10 @@ http://103.89.248.130:8082/NTV/tracks-v1a1/mono.m3u8
 http://103.89.248.130:8082/INDEPENDENT-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="BANGLADESHI", SOMOY TV
-https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
+http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="BANGLADESHI", EKATTOR TV
-https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+http://103.89.248.130:8082/71-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s" group-title="BANGLADESHI", BANGLAVISION
 http://103.89.248.130:8082/BANGLAVISION-HD/tracks-v1a1/mono.m3u8
@@ -86,6 +86,7 @@ http://103.89.248.130:8082/DEEPTO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", NRB BANGLA
 https://allinonereborn.com/tech11.m3u8/?id=3526
+
 
 #EXTINF:-1 group-title="T SPORTS" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T SPORTS 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
