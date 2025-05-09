@@ -240,9 +240,9 @@ http://202.164.50.194:8000/play/a03p/index.m3u8
 
 #EXTINF:-1,GOLDMINES
 #EXTGRP:MOVIES
-http://202.164.50.194:8000/play/a02x/index.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", GOLDMINES 2
-http://202.164.50.194:8000/play/a02n/index.m3u8
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
