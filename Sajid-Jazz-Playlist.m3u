@@ -17,3 +17,6 @@ https://techparag.xyz/tp360/hls/manifest.m3u8?id=896
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
 http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI", NAGORIK TV
+http://mega4k.top:8080/Sapana123/Sapana123/132026
