@@ -190,8 +190,13 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #EXTINF:-1, group-title="ENGLISH" tvg-logo="https://static.epg.best/in/StarMovies.in.png" ,STAR MOVIES HD
 http://mega4k.top:8080/Sapana123/Sapana123/97490
-#EXTINF:-1, tvg-logo="" group-title="MOVIES", COLORS INFINITY HD
+#EXTINF:-1, tvg-logo="" group-title="ENGLISH", COLORS INFINITY HD
 https://allinonereborn.com/tech414.m3u8?id=480
+
+
+
+
+MOVIES
 
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
@@ -267,6 +272,9 @@ http://mega4k.top:8080/Sapana123/Sapana123/95285
 #EXTGRP:MOVIES
 http://webo.asia/live/Sean/Sean55/8528.ts
 
+
+KIDS
+
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",TOM AND JERRY CLASSIC FHD
 
 #EXTINF:-1 tvg-logo="https://www.naftomar.gr/wp-content/uploads/2023/11/Image_not_available.png" group-title="KIDS",THE TOM AND JERRY SHOW FHD
@@ -275,8 +283,14 @@ http://webo.asia/live/Sean/Sean55/8528.ts
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 
+DISCOVERY
+
 #EXTINF:-1 tvg-log="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYDXt66tr8X1mdvW071CXveOsoOfrqi9qqg&usqp=CAU" group-title="INFORMATION", DISCOVERY BANGLA HD
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
+
+
+
+MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC",YRF MUSIC HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -297,8 +311,15 @@ https://bdixtv.life/jio2.php?id=11729
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
+
+WWE
+
 #EXTINF:-1 tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="WWE", WWE
 https://5hrr.short.gy/wwe_kashurflix.m3u8
+
+
+
+SPORTS
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="SPORTS", TEN CRICKET
 http://103.89.248.130:8082/Ten-Cricket-HD/tracks-v1a1/mono.m3u8
@@ -342,6 +363,9 @@ http://103.89.248.130:8082/TNT-Sports-1/tracks-v1a1/mono.m3u8
 http://103.89.248.130:8082/TNT-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TNT SPORTS", TNT SPORTS 3
 http://103.89.248.130:8082/TNT-Sports-3/tracks-v1a1/mono.m3u8
+
+
+ADULTS
 
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", ERO XXX HD
 http://103.211.103.30:8880/live/6mkk030003/45633445/2978.ts
