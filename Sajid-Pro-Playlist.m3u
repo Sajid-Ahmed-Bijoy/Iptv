@@ -200,16 +200,19 @@ MOVIES
 
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
-https://5hrr.short.gy/stgld2_kashurflix.m3u8
+http://b1g.ooo/live/4680/0864/853011.ts
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-https://5hrr.short.gy/stgldselec_kashurflix.m3u8
+http://b1g.ooo/live/4680/0864/865923.ts
 #EXTINF:-1,STAR GOLD ROMANCE
 #EXTGRP:MOVIES
-https://allinonereborn.com/tech414.m3u8/?id=630
+http://b1g.ooo/live/4680/0864/791610.ts
 #EXTINF:-1,STAR GOLD HD
 #EXTGRP:MOVIES
 http://103.89.248.130:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
+http://b1g.ooo/live/4680/0864/853002.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", BOLLYWOOD PREMIRE 4K
 
@@ -230,44 +233,44 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTGRP:MOVIES
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-https://allinonereborn.com/tech414.m3u8?id=614
+http://b1g.ooo/live/4680/0864/417578.ts
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
 http://mega4k.top:8080/Sapana123/Sapana123/100208
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-https://allinonereborn.com/tech414.m3u8?id=632
+http://b1g.ooo/live/4680/0864/8525.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ALL TIME MOVIES
-http://play.denver1769.fun/Play/TPv3.php?id=1321
+http://202.164.50.194:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://b1g.fun/logos2/b_flix.jpg" ,BFLIX
 #EXTGRP:MOVIES
-https://allinonereborn.com/tech414.m3u8?id=621
+http://202.164.50.194:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", SOUTH TALK
 
 #EXTINF:-1,GOLDMINES
 #EXTGRP:MOVIES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+http://202.164.50.194:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", GOLDMINES 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1,GOLDMINES MOVIES
 #EXTGRP:MOVIES
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+http://202.164.50.194:8000/play/a02l/index.m3u8
 #EXTINF:-1,GOLDMINES BOLLYWOOD
 #EXTGRP:MOVIES
-http://mega4k.top:8080/Sapana123/Sapana123/95901
+http://202.164.50.194:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES", GOLDMINES ACTION
-
+http://202.164.50.194:8000/play/a039/index.m3u8
 
 #EXTINF:-1,B4U MOVIES
 #EXTGRP:MOVIES
 http://103.89.248.130:8082/B4U-MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" ,B4U KHADAK
 #EXTGRP:MOVIES
-http://mega4k.top:8080/Sapana123/Sapana123/95285
+http://202.164.50.194:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" ,STAR UTSAB MOVIES
 #EXTGRP:MOVIES
 http://b1g.ooo/live/4680/0864/8528.ts
