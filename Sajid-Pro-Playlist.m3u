@@ -4,7 +4,7 @@
 http://103.89.248.130:8082/EKHON-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x67896" group-title="BANGLADESHI", BOISHAKHI TV
-https://www.tbn24.com/api/video/4042_0.m3u8
+http://b1g.ooo/live/4680/0864/23754.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESHI", DURANTA TV
 http://103.89.248.130:8082/DURONTO-TV/tracks-v1a1/mono.m3u8
