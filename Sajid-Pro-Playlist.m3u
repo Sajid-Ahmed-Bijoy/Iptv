@@ -109,10 +109,10 @@ http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-https://allinonereborn.com/tech414.m3u8?id=532
+http://b1g.ooo/4680/0864/17451.ts
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-https://allinonereborn.com/jaan.m3u8/?id=2332&
+http://b1g.ooo/4680/0864/23752.ts
 #EXTINF:-1,ZEE BANGLA CINEMA
 #EXTGRP:BANGLA
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
@@ -121,18 +121,18 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
-https://allinonereborn.com/tech414.m3u8?id=534
+http://b1g.ooo/4680/0864/14154.ts
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
-https://allinonereborn.com/tech414.m3u8?id=3528
+http://b1g.ooo/4680/0864/164452.ts
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
-
+http://b1g.ooo/4680/0864/791615.ts
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
 http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
 #EXTINF:-1,SANGEET BANGLA
 #EXTGRP:BANGLA
-https://allinonereborn.com/tech414.m3u8?id=541
+http://b1g.ooo/4680/0864/23724.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
