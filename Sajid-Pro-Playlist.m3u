@@ -110,7 +110,7 @@ BANGLA
 
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
-http://b1g.ooo/4680/0864/14154.ts
+http://b1g.ooo/550099/550099/14154.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTINF:-1,COLORS BANGLA HD
@@ -123,13 +123,13 @@ http://103.89.248.130:8082/sunbangla/tracks-v1a1/index.m3u8
 #EXTGRP:BANGLA
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
-http://b1g.ooo/4680/0864/791615.ts
+http://b1g.ooo/550099/550099/791615.ts
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
 http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-http://b1g.ooo/4680/0864/23752.ts
+http://b1g.ooo/550099/550099/23752.ts
 #EXTINF:-1,ZEE BANGLA CINEMA
 #EXTGRP:BANGLA
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
@@ -144,13 +144,13 @@ HINDI
 
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/4680/0864/7932.ts
+http://b1g.ooo/live/550099/550099/7932.ts
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/4680/0864/11308.ts
+http://b1g.ooo/live/550099/550099/11308.ts
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/4680/0864/7931.ts
+http://b1g.ooo/live/550099/550099/7931.ts
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
@@ -169,7 +169,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1, tvg-logo="" group-title="HINDI", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="HINDI", COLORS RISHTEY
-http://b1g.ooo/live/4680/0864/8524.ts
+http://b1g.ooo/live/550099/550099/8524.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN", HUM TV HD
 http://b1g.ooo/live/4680/0864/59672.ts
@@ -207,17 +207,17 @@ MOVIES
 http://103.89.248.130:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
-http://b1g.ooo/live/4680/0864/853011.ts
+http://b1g.ooo/live/550099/550099/853011.ts
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://b1g.ooo/live/4680/0864/865923.ts
+http://b1g.ooo/live/550099/550099/865923.ts
 #EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
-http://b1g.ooo/live/4680/0864/865922.ts
+http://b1g.ooo/live/550099/550099/865922.ts
 #EXTINF:-1,STAR GOLD ROMANCE 4k
 #EXTGRP:MOVIES
-http://b1g.ooo/live/4680/0864/791610.ts
+http://b1g.ooo/live/550099/550099/791610.ts
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
-http://b1g.ooo/live/4680/0864/853002.ts
+http://b1g.ooo/live/550099/550099/853002.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", BOLLYWOOD PREMIRE 4K
@@ -240,9 +240,9 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-http://b1g.ooo/live/4680/0864/8525.ts
+http://b1g.ooo/live/550099/550099/8525.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-http://b1g.ooo/live/4680/0864/417578.ts
+http://b1g.ooo/live/550099/550099/417578.ts
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
 #EXTGRP:MOVIES
 http://mega4k.top:8080/Sapana123/Sapana123/100208
@@ -278,7 +278,7 @@ http://103.89.248.130:8082/B4U-MOVIES/tracks-v1a1/mono.m3u8
 http://202.164.50.194:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" ,STAR UTSAB MOVIES
 #EXTGRP:MOVIES
-http://b1g.ooo/live/4680/0864/8528.ts
+http://b1g.ooo/live/550099/550099/8528.ts
 
 KIDS
 
@@ -377,7 +377,7 @@ http://103.89.248.130:8082/TNT-Sports-3/tracks-v1a1/mono.m3u8
 ADULTS
 
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", ERO XXX HD
-http://b1g.ooo/4680/0864/921075.ts
+http://b1g.ooo/550099/550099/921075.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID TV
 http://103.211.103.30:8880/live/6mkk030003/45633445/2970.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DUSK
@@ -399,21 +399,21 @@ https://s.oxax.tv/nPsc08IeSAba0C3AOW45YQ/3/1743557476/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", BRAZZERS TV
 http://103.211.103.30:8880/live/6mkk030003/45633445/2962.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", BRAZZERS TV
-http://b1g.ooo/4680/0864/921137.ts
+http://b1g.ooo/550099/550099/921137.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", RED LIGHT HD
-http://b1g.ooo/4680/0864/920979.ts
+http://b1g.ooo/550099/550099/920979.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", ALBA XXX 1 HD
-http://b1g.ooo/4680/0864/921175.ts
+http://b1g.ooo/550099/550099/921175.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", ALBA XXX 2 HD
-http://b1g.ooo/4680/0864/921174.ts
+http://b1g.ooo/550099/550099/921174.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", BABES HD
-http://b1g.ooo/4680/0864/921160.ts
+http://b1g.ooo/550099/550099/921160.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", BANG BROS HD
-http://b1g.ooo/4680/0864/921114.ts
+http://b1g.ooo/550099/550099/921114.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DORCEL HD
 http://103.211.103.30:8880/live/6mkk030003/45633445/2982.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", DORCEL XXX HD
-http://b1g.ooo/live/4680/0864/921081.ts
+http://b1g.ooo/live/550099/550099/921081.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE REALITY
 http://103.211.103.30:8880/live/6mkk030003/45633445/2976.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", PENTHOUSE PASSION
@@ -423,7 +423,7 @@ http://nonamevos.com/live/Ed/Ed/175493.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", VIVID RED HD
 http://fastrunner.live:8080/DIhcdEPzjA/wlQuXq6gIF/13565
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", MIA KHALIFA HD
-http://b1g.ooo/live/4680/0864/921111.ts
+http://b1g.ooo/live/550099/559900/921111.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTS", HUSTLER HD
-hhttp://b1g.ooo/live/4680/0864/384844.ts
+hhttp://b1g.ooo/live/550099/550099/384844.ts
 
