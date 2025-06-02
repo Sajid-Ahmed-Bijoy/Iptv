@@ -207,10 +207,10 @@ MOVIES
 http://103.89.248.130:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3174
+http://vocotv.pro/live/steve/steve/694100.ts
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://b1g.ooo/live/550099/550099/865923.ts
+http://vocotv.pro/live/steve/steve/694098.ts
 #EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
 http://b1g.ooo/live/550099/550099/865922.ts
 #EXTINF:-1,STAR GOLD ROMANCE 4k
@@ -218,6 +218,8 @@ http://b1g.ooo/live/550099/550099/865922.ts
 http://b1g.ooo/live/550099/550099/791610.ts
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
 http://b1g.ooo/live/550099/550099/853002.ts
+#EXTINF:-1, group-title="MOVIES", MINIPLEX HD
+http://vocotv.pro/live/steve/steve/694162.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", BOLLYWOOD PREMIRE 4K
