@@ -123,7 +123,7 @@ http://103.89.248.130:8082/sunbangla/tracks-v1a1/index.m3u8
 #EXTGRP:BANGLA
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
-http://b1g.ooo/550099/550099/791615.ts
+http://cp.b1g.ooo/live/0178/8710/791615.ts
 #EXTINF:-1,JALSHA MOVIES HD
 #EXTGRP:BANGLA
 http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
@@ -144,13 +144,13 @@ HINDI
 
 #EXTINF:-1,STAR PLUS HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/550099/550099/7932.ts
+http://cp.b1g.ooo/live/0178/8710/7932.ts
 #EXTINF:-1,STAR BHARAT HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/550099/550099/11308.ts
+http://cp.b1g.ooo/live/0178/8710/11308.ts
 #EXTINF:-1,COLORS HD
 #EXTGRP:HINDI
-http://b1g.ooo/live/550099/550099/7931.ts
+http://cp.b1g.ooo/live/0178/8710/7931.ts
 #EXTINF:-1,ZEE TV HD
 #EXTGRP:HINDI
 https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
@@ -169,7 +169,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1, tvg-logo="" group-title="HINDI", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="HINDI", COLORS RISHTEY
-http://b1g.ooo/live/550099/550099/8524.ts
+http://cp.b1g.ooo/live/0178/8710/8524.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN", HUM TV HD
 http://opplex.org:8080/live/Saleem458/T95boxhd/25981.ts
@@ -180,10 +180,10 @@ ENGLISH
 #EXTGRP:ENGLISH
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1, group-title="ENGLISH" tvg-logo="https://static.epg.best/in/StarMovies.in.png" ,STAR MOVIES HD
-http://b1g.ooo/live/550099/550099/852917.ts
+http://cp.b1g.ooo/live/0178/8710/852917.ts
 #EXTINF:-1,STAR MOVIES SELECT HD
 #EXTGRP:ENGLISH
-http://b1g.ooo/live/550099/550099/161933.ts
+http://cp.b1g.ooo/live/0178/8710/16193e.ts
 #EXTINF:-1,ZEE CAFE HD
 #EXTGRP:ENGLISH
 https://live.drmlive-02.workers.dev/zee/0-9-zeecafehd.m3u8
@@ -210,7 +210,7 @@ http://103.89.248.130:8082/star-gold/tracks-v1a1/mono.m3u8
 http://cp.b1g.ooo/live/0178/8710/853011.ts
 #EXTINF:-1,STAR GOLD SELECT HD
 #EXTGRP:MOVIES
-http://b1g.ooo/live/550099/550099/865923.ts
+http://cp.b1g.ooo/live/0178/8710/865923.ts
 #EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
 http://ip96.uk:8080/live/22334455/22334455/189474.ts
 #EXTINF:-1,STAR GOLD ROMANCE 4k
