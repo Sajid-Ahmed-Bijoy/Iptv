@@ -110,15 +110,15 @@ BANGLA
 
 #EXTINF:-1,STAR JALSHA HD
 #EXTGRP:BANGLA
-http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+http://cp.b1g.ooo/live/0178/8710/14154.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="BANGLA", ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTINF:-1,COLORS BANGLA HD
 #EXTGRP:BANGLA
-http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
+http://cp.b1g.ooo/live/0178/8710/17451.ts
 #EXTINF:-1,SUN BANGLA HD
 #EXTGRP:BANGLA
-http://103.89.248.130:8082/sunbangla/tracks-v1a1/index.m3u8
+http://cp.b1g.ooo/live/0178/8710/164452.ts
 #EXTINF:-1,SONY AATH
 #EXTGRP:BANGLA
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
@@ -215,7 +215,7 @@ http://cp.b1g.ooo/live/0178/8710/865923.ts
 http://ip96.uk:8080/live/22334455/22334455/189474.ts
 #EXTINF:-1,STAR GOLD ROMANCE 4k
 #EXTGRP:MOVIES
-http://nonamevos.com/live/109/109/108901.m3u8
+http://cp.b1g.ooo/live/0178/8710/791610.ts
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
 http://ip96.uk:8080/live/22334455/22334455/275052.ts
 #EXTINF:-1, group-title="MOVIES", MINIPLEX HD
@@ -242,7 +242,7 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1,COLORS CINEPLEX HD
 #EXTGRP:MOVIES
-http://vocotv.pro/live/steve/steve/694215.ts
+http://cp.b1g.ooo/live/0178/8710/8525.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
 http://ip96.uk:8080/live/22334455/22334455/499619.ts
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
