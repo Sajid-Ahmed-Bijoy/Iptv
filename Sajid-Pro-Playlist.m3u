@@ -204,7 +204,7 @@ MOVIES
 
 #EXTINF:-1,STAR GOLD HD
 #EXTGRP:MOVIES
-http://103.89.248.130:8082/star-gold/tracks-v1a1/mono.m3u8
+http://cp.b1g.ooo/live/0178/8710/8015.ts
 #EXTINF:-1,STAR GOLD 2 HD
 #EXTGRP:MOVIES
 http://cp.b1g.ooo/live/0178/8710/853011.ts
@@ -280,7 +280,7 @@ http://103.89.248.130:8082/B4U-MOVIES/tracks-v1a1/mono.m3u8
 http://202.164.50.194:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" ,STAR UTSAB MOVIES
 #EXTGRP:MOVIES
-http://b1g.ooo/live/550099/550099/8528.ts
+http://cp.b1g.ooo/live/0178/8710/8528.ts
 
 KIDS
 
