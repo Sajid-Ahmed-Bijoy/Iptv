@@ -217,15 +217,15 @@ http://ip96.uk:8080/live/22334455/22334455/189474.ts
 #EXTGRP:MOVIES
 http://cp.b1g.ooo/live/0178/8710/791610.ts
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
-http://cp.b1g.ooo/live/0178/8710/853012.ts
+http://cp.b1g.ooo/live/0178/8710/853002.ts
 #EXTINF:-1, group-title="MOVIES", MINIPLEX HD
 http://vocotv.pro/live/steve/steve/694162.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", BOLLYWOOD PREMIRE 4K
-
+http://cp.b1g.ooo/live/0178/8710/86047.ts
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", BOLLYWOOD PREMIERE HD
-http://cp.b1g.ooo/live/0178/8710/853002.ts
+http://cp.b1g.ooo/live/0178/8710/853001.ts
 
 #EXTINF:-1,ZEE CINEMA
 #EXTGRP:MOVIES
