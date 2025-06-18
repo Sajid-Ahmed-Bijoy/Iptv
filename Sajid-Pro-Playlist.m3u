@@ -357,7 +357,7 @@ https://allinonereborn.com/tech414.m3u8?id=516
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLPeBw94MGLtdWuJMnIqnfLhG4NbS3lEQdkFrdUL8-EWnqv0bjuyNXRs&s=10" group-title="SPORTS", SKY SPORTS CRICKET
 http://103.89.248.130:8082/Sky-Sports-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SPORTS", SUPER SPORTS CRICKET
-http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
+http://cp.b1g.ooo/live/0178/8710/174949.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", PTV SPORTS
 http://103.89.248.130:8082/PTV/tracks-v1a1/mono.m3u8
 
