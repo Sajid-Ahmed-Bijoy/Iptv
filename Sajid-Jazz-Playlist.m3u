@@ -1,22 +1,35 @@
-#EXTINF:-1,STAR GOLD ROMANCE
+
+
+#EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
+http://cp.b1g.ooo/live/0178/8710/791615.ts
+
+
+#EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
+http://cp.b1g.ooo/live/0178/8710/865922.ts
+#EXTINF:-1,STAR GOLD ROMANCE 4k
 #EXTGRP:MOVIES
-http://nonamevos.com/live/Ed/Ed/108901.ts
+http://cp.b1g.ooo/live/0178/8710/791610.ts
+#EXTINF:-1, tvg-logo="" group-title="MOVIES", STAR GOLD THRILLS
+http://cp.b1g.ooo/live/0178/8710/853002.ts
 
 #EXTINF:-1, tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="MOVIES", SONY MAX 1
 
 
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", COLORS CINEPLEX SUPERHITS
-http://nonamevos.com/live/Ed/Ed/43016.ts
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="ENTERTAINMENT", COLORS RISHTEY
-
+http://cp.b1g.ooo/live/0178/8710/8524.ts
 
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-http://ip96.uk:8080/live/22334455/22334455/503022.ts
+http://cp.b1g.ooo/live/0178/8710/23752.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
+#EXTGRP:BANGLA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
 http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI" NEW
-http://cp.b1g.ooo/live/0178/8710/174949.ts
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI" 
