@@ -13,10 +13,10 @@ http://cp.b1g.ooo/live/0178/8710/791610.ts
 http://cp.b1g.ooo/live/0178/8710/853002.ts
 
 #EXTINF:-1, tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="MOVIES", SONY MAX 1
-
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12650.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", COLORS CINEPLEX SUPERHITS
-
+http://nayatv.ydns.eu/live/xfireflix/flixfire/12339.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="ENTERTAINMENT", COLORS RISHTEY
 http://cp.b1g.ooo/live/0178/8710/8524.ts
