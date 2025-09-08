@@ -1,7 +1,7 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+
 
 
 #EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
@@ -23,7 +23,7 @@ http://cp.b1g.ooo/live/0178/8710/8524.ts
 
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-http://cp.b1g.ooo/live/0178/8710/23752.ts
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
