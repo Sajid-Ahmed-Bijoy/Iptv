@@ -18,12 +18,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12650.m3u8
 #EXTINF:-1, tvg-logo="" group-title="MOVIES", COLORS CINEPLEX SUPERHITS
 http://nayatv.ydns.eu/live/xfireflix/flixfire/12339.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="ENTERTAINMENT", COLORS RISHTEY
-http://cp.b1g.ooo/live/0178/8710/8524.ts
-
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
