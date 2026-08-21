@@ -1,7 +1,7 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", JALSHA MOVIES HD
-http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, group-title="MOVIES", STAR GOLD ROMANCE
 
@@ -19,14 +19,14 @@ http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,COLORS BANGLA CINEMA
 #EXTGRP:BANGLA
-http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="BANGLA", TARA BANGLA CINEMA
 #EXTGRP:BANGLA
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="BANGLADESHI", NAGORIK TV
-
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ADULTS" MIA KHALIFA
 
